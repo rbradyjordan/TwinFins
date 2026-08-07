@@ -1,0 +1,16 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "twinfins",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "--prefix",
+        "twinfins-redesign",
+        "run",
+        "dev"
+      ],
+      "autoPort": true
+    }
+  ]
+}
